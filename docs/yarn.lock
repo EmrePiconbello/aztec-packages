@@ -11818,14 +11818,14 @@ __metadata:
   linkType: hard
 
 "dompurify@npm:^3.2.1":
-  version: 3.2.3
-  resolution: "dompurify@npm:3.2.3"
+  version: 3.4.0
+  resolution: "dompurify@npm:3.4.0"
   dependencies:
     "@types/trusted-types": "npm:^2.0.7"
   dependenciesMeta:
     "@types/trusted-types":
       optional: true
-  checksum: 10c0/0ce5cb89b76f396d800751bcb48e0d137792891d350ccc049f1bc9a5eca7332cc69030c25007ff4962e0824a5696904d4d74264df9277b5ad955642dfb6f313f
+  checksum: 10c0/5593ac44ee20b9aa521c2120884effc98927fb9128c548183c75e79e0a04357c62ee913a049a267c8f396cb8c9d520ecf72562826c5524c46d4fe03c12063638
   languageName: node
   linkType: hard
 
